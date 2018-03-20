@@ -1,4 +1,7 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
+#
+# The original data, don't put in GIT
+/original
 
 # dependencies
 /node_modules
